@@ -25,9 +25,9 @@ This Power BI dashboard presents a comprehensive visual analysis of Virat Kohli'
 
 - Power BI Desktop  
 - DAX for calculated metrics  
-- Custom visuals for enhanced storytelling  
+- Google  
 - Google sheet
 
 # Useful Links
- * Screenshot-(
+ * Screenshot-(https://github.com/AKM-1996/Power-BI-Project-on-Virat-Matches/blob/main/Screenshot%202025-09-07%20101239.png)
  * Google Sheet Data - (https://docs.google.com/spreadsheets/d/1w3HJqvcoOjdrUAvF7nmtgTb6mdHtwnV8tEpt13oB4PA/edit?gid=0#gid=0)
